@@ -1,0 +1,82 @@
+@media (max-width: 640px) {
+    #menu-left {
+        font-size: small;
+    }
+}
+#box1 {
+    height: 30vw;
+    padding-top: 3vw;
+    padding-bottom: 4vw;
+}
+
+#text1 {
+    font-size: 5vw;
+    font-weight: 625;
+}
+
+#text2 {
+    font-size: 5vw;
+    font-weight: 625;
+    color: green;
+}
+
+#menu-left {
+    width: 10vw;
+    margin-right: 4vw;
+    margin-top: 4vh;
+}
+
+.img {
+
+    height: 25vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#img1 {
+    background-image: url(img1.png);
+}
+
+#img2 {
+    background-image: url(img2.png);
+}
+
+#img3 {
+    background-image: url(img3.png);
+}
+
+#img4 {
+    background-image: url(img4.png);
+}
+
+#img5 {
+    background-image: url(img5.png);
+}
+
+#img6 {
+    background-image: url(img6.png);
+}
+#img7 {
+    background-image: url(img7.png);
+}
+#img8 {
+    background-image: url(img8.png);
+}
+#img9 {
+    background-image: url(img9.png);
+}
+#img10 {
+    background-image: url(img10.png);
+}
+
+.col-4 {
+    text-align: center;
+}
+
+.menu-bottom {
+    margin-top: 25vh;
+    margin-bottom: 5vh;
+
+}
